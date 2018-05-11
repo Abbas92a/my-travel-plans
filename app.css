@@ -49,6 +49,7 @@ h2 {
     transform: rotate(-45deg);
     text-shadow: 0 0 5px #01579b;
     transition: transform 0.5s;
+    font-size: 3em;
 }
 
 #florida {
